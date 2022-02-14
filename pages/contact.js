@@ -21,7 +21,7 @@ const contact = ()=>{
                     </div>
                     <label htmlFor="exampleInputEmail1" className="form-label">Email address</label>
                     <input type="email" className="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter your email id" required/>
-                    <div id="emailHelp" className="form-text">We'll never share your email with anyone else.</div>
+                    <div id="emailHelp" className="form-text">We will never share your email with anyone else.</div>
                 </div>
                 
                 <div className="mb-3">

@@ -42,7 +42,7 @@ const blog=({data})=>{
             data.slice(0,6).map((elem)=>{
                 return(
                     <div key={elem.id} style={{textAlign:'center' , borderRadius:'32px',marginTop:'20px', background:'#817d7e',color:'whitesmoke',marginLeft:'248px',width:'53rem'}}>
-                        <Link href={`/${elem.id}`}>
+                        <Link href={`/${elem.id}`} passHref>
                         <h3 style={{background:'blue' , width:'30px',marginLeft:'25rem',borderRadius:'27px',cursor:'crosshair'}}>{elem.id}</h3>
                         </Link>
                         <hr style={{marginTop:'4px'}}/>
