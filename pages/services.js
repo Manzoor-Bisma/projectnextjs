@@ -27,7 +27,7 @@ const service = ()=>{
     				<div className="col-sm-6  text-danger">
       					<h3>Drinks</h3>
       					<p> Actually! it only takes one drink to get me loaded.</p>
-      					<p>Trouble is! I cannot remember if it's the thirteenth or fourteenth.</p>
+      					<p>Trouble is! I cannot remember if it is the thirteenth or fourteenth.</p>
     				</div>
   				</div>
 		</div>

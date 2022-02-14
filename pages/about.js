@@ -60,7 +60,7 @@ const about = ()=>{
     </li>
   </ul>
 </nav>
-<div data-bs-spy="scroll" data-bs-target="#navbar-example2" data-bs-offset="0" className="scrollspy-example" tabindex="0" style={{height: '300px', 'overflow-y': 'scroll'}}>
+<div data-bs-spy="scroll" data-bs-target="#navbar-example2" data-bs-offset="0" className="scrollspy-example" tabIndex="0" style={{height: '300px', 'overflow-y': 'scroll'}}>
   <h4 id="scrollspyHeading1">First heading</h4>
   <p>Pahalgam is famous for its scenic beauty and is the jewel of the picturesque Liddar valley located in the high Himalayas. It provides an ideal setting for activities like hiking, trekking, and fishing. It is also the starting point of the annual pilgrimage to the holy cave of Amarnath.Pahalgam is located in the western part of the state of Jammu and Kashmir, in the northern region of India. It is located at an altitude of 2130 m above sea level amidst the great Himalayan range. It is positioned beside the Liddar River, in the Liddar valley. Pahalgam is 95 km east of Srinagar. The weather in Pahalgam is alpine. Summers (April-June) are mild while winters (November-February) are cold. It experiences rains between July and September. It experiences heavy snowfall from December to February.The best time to visit Pahalgam is during the summers, between mid-April and mid-November. It can also be visited in July-August during the annual pilgrimage to the holy cave of Amarnath.The origin of Pahalgam is obscure. Mughal rulers ruled this region in the medieval period. It was later a part of the Kingdom of Kashmir, which was ruled by local Hindu rulers. This princely state remained independent even during the British period and later on merged into independent India.</p>
   <h4 id="scrollspyHeading2">Second heading</h4>
