@@ -26,8 +26,8 @@ const service = ()=>{
     				</div>
     				<div className="col-sm-6  text-danger">
       					<h3>Drinks</h3>
-      					<p> Actually, it only takes one drink to get me loaded.</p>
-      					<p>Trouble is, I can't remember if it's the thirteenth or fourteenth.</p>
+      					<p> Actually! it only takes one drink to get me loaded.</p>
+      					<p>Trouble is! I cannot remember if it's the thirteenth or fourteenth.</p>
     				</div>
   				</div>
 		</div>
@@ -36,7 +36,7 @@ const service = ()=>{
   <h1>Coffee & Drinks </h1>    
   <p>Please Select Your Choice</p>
   <div className="container mt-5">
-  	    <div className="row" style={{marginRight: 'calc(var(--bs-gutter-x) * -45.5)'}} >
+  	    <div className="row" style={{marginRight: "calc(var(--bs-gutter-x) * -45.5)"}} >
   			<div className="col-sm-6 bg-warning text-primary">
   				<dl>
     				<dt>Coffee</dt>
@@ -46,7 +46,7 @@ const service = ()=>{
     				<dd>- white cold drink</dd>
     				<button className="btn btn bg-success text-capitalize"> <a href="mil.html" className="text-white"> order here </a></button>
     				<dt>Cold Coffee</dt>
-    				<dd>-cold coffee</dd>
+    				<dd>cold coffee</dd>
     				<button className="btn btn bg-success text-capitalize"> <a href="mil.html" className="text-white"> order here </a></button>
   				</dl>
   			</div>
