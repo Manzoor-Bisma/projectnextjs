@@ -1,5 +1,6 @@
 import Navbar from './nav'
 import Image from 'next/image'
+import picture from '../public/ghi.jpg'
 const about = ()=>{
     return(
         <>
@@ -17,7 +18,7 @@ const about = ()=>{
     <div className="row my-5">
         <div className="col-lg-6 col-md-6 col-12 col-xxl-6">
           <figure>
-            <Image src="ghi.jpg" alt="about images" className="img-fluid"/>
+            <Image src={picture} alt="about images" className="img-fluid"/>
           </figure>
           
         </div>
